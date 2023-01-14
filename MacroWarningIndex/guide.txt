@@ -1,0 +1,7 @@
+A faire manuellement:
+
+1- Creer l'arborescence de dossiers. 
+2- Convertir les fichiers excel suivant:
+dicoMonAct.xls and TSM_FWS_SCADE.xls en .CSV
+3- Puis les copier dans le dossier "source"
+4- Lancer la Macro Warning Index.xls
